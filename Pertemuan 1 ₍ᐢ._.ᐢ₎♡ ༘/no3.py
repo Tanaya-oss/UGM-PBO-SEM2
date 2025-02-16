@@ -1,6 +1,6 @@
 niu = int(input("Masukan NIU: "))
 nilai_tugas = int(input("Masukan Nilai Tugas: "))
-nilai_laporan = int(input("Masukan Nilai: "))
+nilai_laporan = int(input("Masukan Nilai Laporan: "))
 
 jml_nilai = nilai_tugas + nilai_laporan
 rata_rata = jml_nilai / 2
